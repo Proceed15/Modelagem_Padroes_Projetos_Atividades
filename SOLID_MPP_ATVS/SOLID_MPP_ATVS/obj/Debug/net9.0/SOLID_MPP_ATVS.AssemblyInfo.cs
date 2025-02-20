@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOLID_MPP_ATVS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6de58dc0410224886cd2a4da7a0758487ae432f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2ad5ca8e9bf36d5bce2ed46acce2d9a25f86ff9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOLID_MPP_ATVS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOLID_MPP_ATVS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
