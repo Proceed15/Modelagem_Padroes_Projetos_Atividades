@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj": {}
+    "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj": {
+    "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj",
+        "projectUniqueName": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj",
         "projectName": "SOLID_MPP_ATVS",
-        "projectPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj",
+        "projectPath": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj",
         "packagesPath": "C:\\Users\\JRLSF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\obj\\",
+        "outputPath": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,3 +1,4 @@
+/*
 interface IVeiculo 
 { 
 // 10 estamos quebrando o principio da Singularidade: carro e moto na mesma Interface 
@@ -53,3 +54,4 @@ LigaVeiculo();
 public void LigaVeiculo() 
 { 
 Console.WriteLine("Ligando a Moto"); }}
+*/

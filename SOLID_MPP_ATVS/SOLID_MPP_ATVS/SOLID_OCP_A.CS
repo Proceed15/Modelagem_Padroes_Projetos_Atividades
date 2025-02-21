@@ -4,11 +4,11 @@ private string cor;
 private int ano, assentos, porta; 
 private double motor; 
 //
-public Veiculo (string cor, int ano, double motor, int assentos, int portas) { 
-this.cor cor; 
-this.ano ano; 
+public void Veiculo (string cor, int ano, double motor, int assentos, int portas) { 
+this.cor = cor; 
+this.ano = ano; 
 this.motor = motor; 
-this.porta portas; 
+this.porta = portas; 
 this.assentos = assentos; 
 } 
 ///
