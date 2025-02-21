@@ -12,6 +12,6 @@ static void UpdateClient(){ }
 static void DeleteClient() { } 
 //
 static void NotifyClient() { 
-// Envia e-mail / SMS 
+// Enviar e-mail / SMS 
 } 
 }
