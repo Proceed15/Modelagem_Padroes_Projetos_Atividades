@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-//Como refatorar os programas abaixo, seguindo os princípios SOLID:
+
+//Atividade na Pasta SOLID ATV, Concluída, Verificar Informações Importantes Registradas nos Arquivos
+
+//Refatorar os programas abaixo, seguindo os princípios SOLID:
 
 //Atv1 1) Single Responsability Principle
 class program
