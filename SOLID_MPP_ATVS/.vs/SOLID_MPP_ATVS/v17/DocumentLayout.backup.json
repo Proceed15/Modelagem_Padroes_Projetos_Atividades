@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|c:\\users\\jrlsf\\source\\repos\\modelagem_padroes_projetos_atividades\\solid_mpp_atvs\\solid_mpp_atvs\\solid_isp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|solutionrelative:solid_mpp_atvs\\solid_isp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|c:\\users\\jrlsf\\source\\repos\\modelagem_padroes_projetos_atividades\\solid_mpp_atvs\\solid_mpp_atvs\\solid_ocp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|solutionrelative:solid_mpp_atvs\\solid_ocp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|c:\\users\\jrlsf\\source\\repos\\modelagem_padroes_projetos_atividades\\solid_mpp_atvs\\solid_mpp_atvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|solutionrelative:solid_mpp_atvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|c:\\users\\jrlsf\\source\\repos\\modelagem_padroes_projetos_atividades\\solid_mpp_atvs\\solid_mpp_atvs\\solid_lsp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|solutionrelative:solid_mpp_atvs\\solid_lsp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|c:\\users\\jrlsf\\source\\repos\\modelagem_padroes_projetos_atividades\\solid_mpp_atvs\\solid_mpp_atvs\\solid_srp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|solutionrelative:solid_mpp_atvs\\solid_srp_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SOLID_OCP_A.cs",
+              "DocumentMoniker": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_OCP_A.cs",
+              "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\SOLID_OCP_A.cs",
+              "ToolTip": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_OCP_A.cs",
+              "RelativeToolTip": "SOLID_MPP_ATVS\\SOLID_OCP_A.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:30:04.444Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -53,33 +74,16 @@
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SOLID_ISP_A.cs",
-              "DocumentMoniker": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_ISP_A.cs",
-              "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\SOLID_ISP_A.cs",
-              "ToolTip": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_ISP_A.cs",
-              "RelativeToolTip": "SOLID_MPP_ATVS\\SOLID_ISP_A.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDgAAAACAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SOLID_SRP_A.cs",
+              "DocumentMoniker": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_SRP_A.cs",
+              "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\SOLID_SRP_A.cs",
+              "ToolTip": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_SRP_A.cs",
+              "RelativeToolTip": "SOLID_MPP_ATVS\\SOLID_SRP_A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:36:22.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SOLID_OCP_A.CS",
-              "DocumentMoniker": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_OCP_A.CS",
-              "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\SOLID_OCP_A.CS",
-              "ToolTip": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_OCP_A.CS",
-              "RelativeToolTip": "SOLID_MPP_ATVS\\SOLID_OCP_A.CS",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:35:41.423Z",
+              "WhenOpened": "2025-02-24T04:19:20.262Z",
               "EditorCaption": ""
             },
             {
@@ -90,9 +94,22 @@
               "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\SOLID_LSP_A.cs",
               "ToolTip": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\SOLID_LSP_A.cs",
               "RelativeToolTip": "SOLID_MPP_ATVS\\SOLID_LSP_A.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFEAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T03:07:49.888Z",
+              "WhenOpened": "2025-02-24T04:14:13.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\Program.cs",
+              "ToolTip": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\Program.cs",
+              "RelativeToolTip": "SOLID_MPP_ATVS\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:06:41.849Z",
               "EditorCaption": ""
             }
           ]

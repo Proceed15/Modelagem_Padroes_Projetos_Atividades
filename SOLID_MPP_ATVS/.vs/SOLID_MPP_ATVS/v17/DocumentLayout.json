@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\JRLSF\\source\\repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|c:\\users\\jrlsf\\source\\repos\\modelagem_padroes_projetos_atividades\\solid_mpp_atvs\\solid_mpp_atvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD38142-2547-4C9B-B3A8-1F1C83A3836E}|SOLID_MPP_ATVS\\SOLID_MPP_ATVS.csproj|solutionrelative:solid_mpp_atvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -40,12 +49,17 @@
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID_MPP_ATVS\\Program.cs",
+              "ToolTip": "C:\\Users\\JRLSF\\Source\\Repos\\Modelagem_Padroes_Projetos_Atividades\\SOLID_MPP_ATVS\\SOLID_MPP_ATVS\\Program.cs",
+              "RelativeToolTip": "SOLID_MPP_ATVS\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:06:41.849Z",
+              "EditorCaption": ""
             }
           ]
         }

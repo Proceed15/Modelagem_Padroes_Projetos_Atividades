@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOLID_MPP_ATVS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7516203d510563a5fd2f23deda49c8382a91b05a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+812ae15cbf6b431bc4413dfba5558ca8f808e5fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOLID_MPP_ATVS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOLID_MPP_ATVS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
