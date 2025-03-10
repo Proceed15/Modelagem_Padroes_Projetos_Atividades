@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AtvMpp_Factory_10032025/1.0.0": {
+        "runtime": {
+          "AtvMpp_Factory_10032025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtvMpp_Factory_10032025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
