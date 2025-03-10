@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MPP_Factory_Example10032025/1.0.0": {
+        "runtime": {
+          "MPP_Factory_Example10032025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MPP_Factory_Example10032025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
