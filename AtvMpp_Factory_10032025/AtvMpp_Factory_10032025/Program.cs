@@ -47,7 +47,8 @@ public abstract class Transport
         vehicle.StartRoute();
     }
 
-    public /*protected*/ abstract IVehicle CreateTransport();
+    public abstract IVehicle CreateTransport();
+    /*protected*/
 }
 public class CarroCreator:Transport
 {

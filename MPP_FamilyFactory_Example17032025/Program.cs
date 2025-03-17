@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-// Abstract Product
+// Abstract Product Interface
 public interface IBotao {
     void Render();
 }

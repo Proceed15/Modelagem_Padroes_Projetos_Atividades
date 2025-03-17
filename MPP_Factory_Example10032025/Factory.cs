@@ -1,5 +1,5 @@
 using System;
-
+//Interface Pública de Transporte
 public interface Itransporte
 {
     void Transportar(string carga);

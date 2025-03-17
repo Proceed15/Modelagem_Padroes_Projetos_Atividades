@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_FamilyFactory_Example17032025", "MPP_FamilyFactory_Example17032025\MPP_FamilyFactory_Example17032025.csproj", "{374EFD4A-8F21-4DE8-B9AC-65D71A4C4526}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATVMPP_FamilyFactoryAbstract_17032025", "ATVMPP_FamilyFactoryAbstract_17032025\ATVMPP_FamilyFactoryAbstract_17032025.csproj", "{750E1C9E-88FF-4749-AFFA-218B8BC8C925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{374EFD4A-8F21-4DE8-B9AC-65D71A4C4526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{374EFD4A-8F21-4DE8-B9AC-65D71A4C4526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{374EFD4A-8F21-4DE8-B9AC-65D71A4C4526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750E1C9E-88FF-4749-AFFA-218B8BC8C925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750E1C9E-88FF-4749-AFFA-218B8BC8C925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750E1C9E-88FF-4749-AFFA-218B8BC8C925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750E1C9E-88FF-4749-AFFA-218B8BC8C925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
