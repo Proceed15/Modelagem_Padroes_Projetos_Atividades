@@ -5,6 +5,7 @@ class VehicleBuilder : IBuilder
     private Transmission transmission;
     private int seats;
     private VehicleType vehicleType;
+    bool airbag;
     public Vehicle GetVehicle()
     {
         Vehicle result = vehicle;
@@ -25,5 +26,9 @@ class VehicleBuilder : IBuilder
     }
     public void SetVehicleType(VehicleType vehicleType){
         this.vehicleType = vehicleType;
+    }
+    public void SetAirbag(bool airbag)
+    {
+        this.airbag = airbag;
     }
 }
