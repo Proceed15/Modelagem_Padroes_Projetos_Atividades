@@ -1,0 +1,15 @@
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.AssemblyInfoInputs.cache
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.AssemblyInfo.cs
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.csproj.CoreCompileInputs.cache
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.sourcelink.json
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\bin\Debug\net9.0\BuilderAppExampleMPP.exe
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\bin\Debug\net9.0\BuilderAppExampleMPP.deps.json
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\bin\Debug\net9.0\BuilderAppExampleMPP.runtimeconfig.json
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\bin\Debug\net9.0\BuilderAppExampleMPP.dll
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\bin\Debug\net9.0\BuilderAppExampleMPP.pdb
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.dll
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\refint\BuilderAppExampleMPP.dll
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.pdb
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\BuilderAppExampleMPP.genruntimeconfig.cache
+c:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\BuilderAppExampleMPP\obj\Debug\net9.0\ref\BuilderAppExampleMPP.dll
