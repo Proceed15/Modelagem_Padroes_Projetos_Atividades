@@ -1,3 +1,6 @@
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATV_MPP_Builder_24032025", "ATV_MPP_Builder_24032025\ATV_MPP_Builder_24032025.csproj", "{F3C21FC5-AD52-4881-9FB2-2F397FCBB007}"
+EndProject
+
 class Engine {
  private int power;
  public int Power {
