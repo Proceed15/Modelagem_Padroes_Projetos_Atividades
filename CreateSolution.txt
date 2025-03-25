@@ -1,0 +1,26 @@
+Create a C# Solution in Visual Studio Code:
+
+First use the Cd command to go where you want te sln file to be...
+
+Second run dotnet new sln -o NameOfTheSolution, get preference for the folder name...
+
+Third consider using:
+
+dotnet new console -o MyApiApp.ConsoleApp
+dotnet new webapi -o MyApiApp.WebApi 
+dotnet new classlib -o MyApiApp.Repository 
+dotnet new xunit -o MyApiApp.Tests
+
+When you want to create a project within an existing solution folder
+
+Fourth know that:
+
+This Command Adds projects to solution (use tab to navigate path).
+
+dotnet sln MyApiApp.sln add .\MyApiApp.ConsoleApp\MyApiApp.ConsoleApp.csproj .\MyApiApp.WebApi\MyApiApp.WebApi.csproj .\MyApiApp.Repository\MyApiApp.Repository.csproj .\MyApiApp.Tests\MyApiApp.Tests.csproj 
+
+This Commands Adds project references
+
+dotnet add .\MyApiApp.WebApi\MyApiApp.WebApi.csproj reference .\MyApiApp.Repository\MyApiApp.Repository.csproj 
+dotnet add .\MyApiApp.ConsoleApp\MyApiApp.ConsoleApp.csproj reference .\MyApiApp.Repository\MyApiApp.Repository.csproj 
+dotnet add .\MyApiApp.Tests\MyApiApp.Tests.csproj reference .\MyApiApp.WebApi\MyApiAp
