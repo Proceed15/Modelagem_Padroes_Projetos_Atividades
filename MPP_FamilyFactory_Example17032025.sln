@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATV_MPP_Builder_24032025", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Prototype_Example_31032025", "MPP_Prototype_Example_31032025\MPP_Prototype_Example_31032025.csproj", "{4AC1ABE1-3BCD-4BB1-8C3A-0C07F461F166}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvMPP_Prototype_31032025", "AtvMPP_Prototype_31032025\AtvMPP_Prototype_31032025.csproj", "{4670B175-0C63-4BB4-BDA6-5D3D5C06FACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{4AC1ABE1-3BCD-4BB1-8C3A-0C07F461F166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AC1ABE1-3BCD-4BB1-8C3A-0C07F461F166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AC1ABE1-3BCD-4BB1-8C3A-0C07F461F166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4670B175-0C63-4BB4-BDA6-5D3D5C06FACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4670B175-0C63-4BB4-BDA6-5D3D5C06FACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4670B175-0C63-4BB4-BDA6-5D3D5C06FACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4670B175-0C63-4BB4-BDA6-5D3D5C06FACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

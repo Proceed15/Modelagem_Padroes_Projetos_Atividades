@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
 
 //Atividade na Pasta SOLID ATV, Concluída, Verificar Informações Importantes Registradas nos Arquivos
 
-//Refatorar os programas abaixo, seguindo os princípios SOLID:
+//Refatorar os programas abaixo, seguindo os princípios SOLID: \/
 
 //Atv1 1) Single Responsability Principle
 class program
