@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\BuilderAppExampleMPP\\BuilderAppExampleMPP.csproj": {}
+    "c:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Prototype_Example_31032025\\MPP_Prototype_Example_31032025.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\BuilderAppExampleMPP\\BuilderAppExampleMPP.csproj": {
+    "c:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Prototype_Example_31032025\\MPP_Prototype_Example_31032025.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\BuilderAppExampleMPP\\BuilderAppExampleMPP.csproj",
-        "projectName": "BuilderAppExampleMPP",
-        "projectPath": "C:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\BuilderAppExampleMPP\\BuilderAppExampleMPP.csproj",
+        "projectUniqueName": "c:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Prototype_Example_31032025\\MPP_Prototype_Example_31032025.csproj",
+        "projectName": "MPP_Prototype_Example_31032025",
+        "projectPath": "c:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Prototype_Example_31032025\\MPP_Prototype_Example_31032025.csproj",
         "packagesPath": "C:\\Users\\0031432412016\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\BuilderAppExampleMPP\\obj\\",
+        "outputPath": "c:\\Users\\0031432412016\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Prototype_Example_31032025\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

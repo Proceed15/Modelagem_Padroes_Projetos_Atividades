@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATVMPP_FamilyFactoryAbstract_17032025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f85efa1a0ff535e130c027e6e1d157d8df60705f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+386e392f606400d68331572ea8cef585e765c227")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATVMPP_FamilyFactoryAbstract_17032025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATVMPP_FamilyFactoryAbstract_17032025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
