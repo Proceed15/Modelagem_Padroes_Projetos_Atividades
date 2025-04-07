@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MPP_Proxy_EXAMPLE_07042025/1.0.0": {
+        "runtime": {
+          "MPP_Proxy_EXAMPLE_07042025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MPP_Proxy_EXAMPLE_07042025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
