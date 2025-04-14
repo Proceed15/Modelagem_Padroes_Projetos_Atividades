@@ -1,8 +1,3 @@
-/*
-class Triangulo:Poligono{
-
-}
-*/
 public class Triangulo : Poligono
 {
     public double Base { get; set; }

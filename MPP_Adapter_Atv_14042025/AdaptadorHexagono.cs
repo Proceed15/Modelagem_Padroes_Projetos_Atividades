@@ -1,11 +1,3 @@
-/*
-class AdaptadorHexagono:Poligono{
-    
-public static float ToSingle(double lado){
-    return(float) lado;
-}
-}
-*/
 public class AdaptadorHexagono: Poligono
 	{
 		private HexagonoEstrangeiro hexagonoEstrangeiro;
