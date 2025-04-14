@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Proxy_EXAMPLE_07042025"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Adapter_Example_14042025", "MPP_Adapter_Example_14042025\MPP_Adapter_Example_14042025.csproj", "{A5110231-FD26-4B26-8FB3-2CA298CBE264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Adapter_Atv_14042025", "MPP_Adapter_Atv_14042025\MPP_Adapter_Atv_14042025.csproj", "{889CF709-5F3D-4423-9F9A-CF7065CA0DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{A5110231-FD26-4B26-8FB3-2CA298CBE264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5110231-FD26-4B26-8FB3-2CA298CBE264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5110231-FD26-4B26-8FB3-2CA298CBE264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889CF709-5F3D-4423-9F9A-CF7065CA0DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889CF709-5F3D-4423-9F9A-CF7065CA0DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889CF709-5F3D-4423-9F9A-CF7065CA0DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889CF709-5F3D-4423-9F9A-CF7065CA0DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
