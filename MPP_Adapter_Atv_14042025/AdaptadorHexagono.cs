@@ -16,5 +16,8 @@ public class AdaptadorHexagono: Poligono
 		{
 			return hexagonoEstrangeiro.calculaArea();
 		}
- 
+		public override string getName()
+        {
+            return "Hexágono";
+        }
 	}

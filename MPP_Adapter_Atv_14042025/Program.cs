@@ -6,9 +6,9 @@ class Program
 {
     static void Main()
     {
-        Quadrado quadrado = new Quadrado(5);
+        Quadrado quadrado = new Quadrado(66);
         Triangulo triangulo = new Triangulo(4, 6);
-        HexagonoEstrangeiro hexagonoEstrangeiro = new HexagonoEstrangeiro(6);
+        HexagonoEstrangeiro hexagonoEstrangeiro = new HexagonoEstrangeiro(9);
         AdaptadorHexagono adaptadorHexagono = new AdaptadorHexagono();
         adaptadorHexagono.setHexagonoEstrangeiro(hexagonoEstrangeiro);
 
@@ -22,7 +22,8 @@ class Program
         //Um para cada da Lista
         foreach (var poligono in poligonos)
         {
-            Console.WriteLine($"Área: {poligono.getArea()}");
+            Console.WriteLine($"{poligono.getName()}");
+            Console.WriteLine($"Área: {poligono.getArea()}\n");
         }
     }
 }

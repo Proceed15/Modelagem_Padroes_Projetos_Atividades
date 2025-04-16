@@ -13,4 +13,8 @@ public class Triangulo : Poligono
     {
         return (Base * Altura) / 2;
     }
+    public override string getName()
+    {
+        return "Triângulo";
+    }
 }

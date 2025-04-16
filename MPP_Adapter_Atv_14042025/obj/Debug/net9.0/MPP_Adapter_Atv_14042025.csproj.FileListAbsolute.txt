@@ -1,0 +1,15 @@
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\bin\Debug\net9.0\MPP_Adapter_Atv_14042025.exe
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\bin\Debug\net9.0\MPP_Adapter_Atv_14042025.deps.json
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\bin\Debug\net9.0\MPP_Adapter_Atv_14042025.runtimeconfig.json
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\bin\Debug\net9.0\MPP_Adapter_Atv_14042025.dll
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\bin\Debug\net9.0\MPP_Adapter_Atv_14042025.pdb
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.AssemblyInfoInputs.cache
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.AssemblyInfo.cs
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.csproj.CoreCompileInputs.cache
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.sourcelink.json
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.dll
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\refint\MPP_Adapter_Atv_14042025.dll
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.pdb
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\MPP_Adapter_Atv_14042025.genruntimeconfig.cache
+C:\Users\JRLSF\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Adapter_Atv_14042025\obj\Debug\net9.0\ref\MPP_Adapter_Atv_14042025.dll

@@ -11,4 +11,8 @@ public class Quadrado : Poligono
     {
         return Lado * Lado;
     }
+    public override string getName()
+    {
+        return "Quadrado";
+    }
 }

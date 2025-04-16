@@ -1,3 +1,5 @@
+General Purpose Commands for C# Extensions in Visual Studio Code:
+
 Create a C# Solution in Visual Studio Code:
 
 First use the Cd command to go where you want te sln file to be...

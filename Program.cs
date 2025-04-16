@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-
+//Ativida já realizada, disponível na pasta SOLID_MPP_ATVS
 //Atividade na Pasta SOLID ATV, Concluída, Verificar Informações Importantes Registradas nos Arquivos
 
 //Refatorar os programas abaixo, seguindo os princípios SOLID: \/
