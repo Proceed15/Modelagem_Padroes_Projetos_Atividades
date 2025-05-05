@@ -71,7 +71,8 @@ namespace SOLID_MPP_ATVS
 
                 case "5":
                     Console.WriteLine("\nD - DIP (Dependency Inversion Principle), Princípio da Inversão de Dependência");
-                    Console.WriteLine("Não houve atividade prática sobre este princípio, então adicionei essa descrição para suprir esse espaço.");
+                    SOLID_DIP_A.Retorna_DIP();
+                    //Console.WriteLine("Não houve atividade prática sobre este princípio, então adicionei essa descrição para suprir esse espaço.");
                     ReMenu();
                     return true;
 

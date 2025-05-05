@@ -2,11 +2,9 @@ public class Funcionario
 {
     public string Nome { get; set; }
     public bigint Remuneracao { get; set; }
-    public string Cargo { get; set; }
+    public string Cargo { get; set; } //CLT || Estagiario || Terceirizado
+    public bigint EfetivacaoEmHoras { get; set; }
+    public bigint VHora { get; set; }
+    public bigint Bonus { get; set; }
 
-    public Funcionario(string nome, bigint remuneracao, string Cargo){
-        this.Nome = nome;
-        this.Remuneracao = remuneracao;
-        this.Cargo = cargo;
-    }
 }
