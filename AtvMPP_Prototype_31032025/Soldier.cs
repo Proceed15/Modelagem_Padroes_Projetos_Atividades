@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 public class Soldier
 {
-    public string Name;
-    public string Weapon;
-    public Accessory Accessory;
+    public required string Name;
+    public required string Weapon;
+    public required Accessory Accessory;
 
     //Com ShallowCopy altera todos os clones ao mudar um
     public Soldier ShallowCopy()
