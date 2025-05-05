@@ -1,5 +1,35 @@
 class Director
 {
+    public void ConstructSedanCar(IBuilder builder)
+    {
+        builder.Reset();
+        builder.SetVehicleType(VehicleType.SEDAN);
+        builder.SetSeats(5);
+        builder.SetEngine(new Engine(1.6));
+        builder.SetTransmission(Transmission.AUTOMATIC);
+    }
+
+    public void ConstructTruck(IBuilder builder)
+    {
+        builder.Reset();
+        builder.SetVehicleType(VehicleType.TRUCK);
+        builder.SetSeats(2);
+        builder.SetEngine(new Engine(5.0));
+        builder.SetTransmission(Transmission.MANUAL);
+    }
+
+    public void ConstructSUV(IBuilder builder)
+    {
+        builder.Reset();
+        builder.SetVehicleType(VehicleType.SUV);
+        builder.SetSeats(5);
+        builder.SetEngine(new Engine(2.6));
+        builder.SetTransmission(Transmission.AUTOMATIC_SEQUENTIAL);
+        (builder as CarBuilder)?.SetAirbag(true);
+    }
+}
+/*class Director
+{
     IBuilder builder;
  
     public Director(IBuilder builder)
@@ -36,4 +66,4 @@ class Director
         builder.SetSeats(5);
         builder.SetVehicleType(VehicleType.SUV);
     }
-}
+}*/

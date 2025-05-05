@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
+/*
 class Program1{
     static void Main(string[] args){
         Director director = new Director();
@@ -18,3 +19,4 @@ class Program1{
         Console.WriteLine(suv);
     }
 }
+*/

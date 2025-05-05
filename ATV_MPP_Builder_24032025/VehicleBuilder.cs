@@ -1,4 +1,4 @@
-class VehicleBuilder : IBuilder
+/*class VehicleBuilder : IBuilder
 {
     private Vehicle vehicle = new Vehicle();
     private Engine engine;
@@ -30,5 +30,49 @@ class VehicleBuilder : IBuilder
     public void SetAirbag(bool airbag)
     {
         this.airbag = airbag;
+    }
+}*/
+class CarBuilder : IBuilder
+{
+    private Vehicle _vehicle;
+
+    public CarBuilder()
+    {
+        Reset();
+    }
+
+    public void Reset()
+    {
+        _vehicle = new Vehicle();
+    }
+
+    public void SetSeats(int seats)
+    {
+        _vehicle.Seats = seats;
+    }
+
+    public void SetEngine(Engine engine)
+    {
+        _vehicle.Engine = engine;
+    }
+
+    public void SetTransmission(Transmission transmission)
+    {
+        _vehicle.Transmission = transmission;
+    }
+
+    public void SetVehicleType(VehicleType vehicleType)
+    {
+        _vehicle.VehicleType = vehicleType;
+    }
+
+    public void SetAirbag(bool airbag)
+    {
+        _vehicle.Airbag = airbag;
+    }
+
+    public Vehicle GetVehicle()
+    {
+        return _vehicle;
     }
 }
