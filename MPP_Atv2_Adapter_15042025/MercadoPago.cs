@@ -1,11 +1,11 @@
 public class MercadoPago
 {
-    public void makePayment()
+    public void doThePayment()
     {
         Console.WriteLine("Realizando pagamento via MercadoPago.");
     }
 
-    public void acceptPayment()
+    public void receiveThePayment()
     {
         Console.WriteLine("Recebendo pagamento via MercadoPago.");
     }

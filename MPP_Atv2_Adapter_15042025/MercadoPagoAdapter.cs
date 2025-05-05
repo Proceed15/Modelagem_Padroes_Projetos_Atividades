@@ -9,11 +9,11 @@ public class MercadoPagoAdapter : IPaymentSystem
 
     public void paypalPayment()
     {
-        mercadoPago.makePayment();
+        mercadoPago.doThePayment();
     }
 
     public void paypalReceive()
     {
-        mercadoPago.acceptPayment();
+        mercadoPago.receiveThePayment();
     }
 }

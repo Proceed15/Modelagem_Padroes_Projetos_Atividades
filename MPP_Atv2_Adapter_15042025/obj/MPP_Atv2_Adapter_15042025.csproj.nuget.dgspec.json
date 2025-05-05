@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj": {}
+    "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj": {
+    "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj",
+        "projectUniqueName": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj",
         "projectName": "MPP_Atv2_Adapter_15042025",
-        "projectPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj",
+        "projectPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_atv2_Adapter_15042025\\MPP_Atv2_Adapter_15042025.csproj",
         "packagesPath": "C:\\Users\\JRLSF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Atv2_Adapter_15042025\\obj\\",
+        "outputPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_atv2_Adapter_15042025\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JRLSF\\AppData\\Roaming\\NuGet\\NuGet.Config"
