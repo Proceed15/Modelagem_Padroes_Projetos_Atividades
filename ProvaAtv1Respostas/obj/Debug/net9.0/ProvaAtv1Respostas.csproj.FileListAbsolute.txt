@@ -1,0 +1,15 @@
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.AssemblyInfoInputs.cache
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.AssemblyInfo.cs
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.csproj.CoreCompileInputs.cache
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.sourcelink.json
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\bin\Debug\net9.0\ProvaAtv1Respostas.exe
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\bin\Debug\net9.0\ProvaAtv1Respostas.deps.json
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\bin\Debug\net9.0\ProvaAtv1Respostas.runtimeconfig.json
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\bin\Debug\net9.0\ProvaAtv1Respostas.dll
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\bin\Debug\net9.0\ProvaAtv1Respostas.pdb
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.dll
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\refint\ProvaAtv1Respostas.dll
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.pdb
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ProvaAtv1Respostas.genruntimeconfig.cache
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\ProvaAtv1Respostas\obj\Debug\net9.0\ref\ProvaAtv1Respostas.dll
