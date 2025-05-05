@@ -1,4 +1,5 @@
 interface IBuilder {
+    
     void Reset();
     Vehicle GetVehicle();
     void SetSeats(int seats);

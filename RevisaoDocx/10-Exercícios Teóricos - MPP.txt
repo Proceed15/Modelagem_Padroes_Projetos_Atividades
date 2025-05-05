@@ -1,0 +1,30 @@
+1) É um design pattern, inserido no catálogo de padrões de criação (creational) do GoF, que tem por objetivo definir uma interface para criar objetos de forma a deixar subclasses decidirem qual classe instanciar. Também conhecido como Construtor Virtual é o:
+
+R: b) Factory Method
+
+2) Assinale a opção que apresenta tipos de padrões estruturais (design patterns) de projetos de desenvolvimento de software.
+
+R: a) Bridge, decorator, facade
+
+3) A respeito de padrões de projeto, julgue o próximo item.
+
+O padrão Decorator permite acrescentar funcionalidades a um objeto em tempo de execução, flexibilizando a extensão de classes. 
+
+R: ( ) verdadeiro
+
+4) Os padrões de projeto na Engenharia de Software representam soluções que podem ser reusadas em diferentes contextos para determinados problemas que ocorrem com frequência.
+Analise as afirmativas abaixo sobre alguns elementos que descrevem os Padrões de Projeto:
+
+I. Problema: descreve o problema de que o padrão trata. 
+
+II. Solução: fornece uma descrição detalhada de uma solução proposta para o problema. 
+
+III. Consequências: descrevem os possíveis prós e contras que devem ser considerados quando o padrão é implementado e as consequências do uso do padrão.
+
+Estão CORRETAS as afirmativas:
+
+R: d) I, II e III.
+
+5) O uso de padrões de projetos tornou-se uma prática importante no desenvolvimento de software. Os padrões de projeto garantem um reuso adequado, criam um entendimento comum entre desenvolvedores e até mesmo facilitam o aprendizado de desenvolvedores iniciantes. Assim, podemos definir que padrões de projeto são:
+
+R: c) as melhores práticas e soluções para problemas gerais frequentemente encontrados durante o desenvolvimento de software e que podem ser adaptadas para cada contexto.
