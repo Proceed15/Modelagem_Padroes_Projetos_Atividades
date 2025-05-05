@@ -3,11 +3,6 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Dynamic;
 
-public interface IFileDownloader
-{
-    void DownloadFile(string url);
-}
-
 public class FileDownloaderProxy : IFileDownloader
 {
     private FileDownloadService _realService;
@@ -17,7 +12,7 @@ public class FileDownloaderProxy : IFileDownloader
     {
         if (_cache.ContainsKey(url))
         {
-            Console.WriteLine($"\n[CACHE] Arquivo {url} já baixado");
+            Console.WriteLine($"\n[CACHE] Arquivo {url} já baixado\n");
             return;
         }
 
