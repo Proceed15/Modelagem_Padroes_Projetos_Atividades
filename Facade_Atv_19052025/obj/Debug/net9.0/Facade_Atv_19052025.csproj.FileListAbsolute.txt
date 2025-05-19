@@ -1,0 +1,15 @@
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\bin\Debug\net9.0\Facade_Atv_19052025.exe
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\bin\Debug\net9.0\Facade_Atv_19052025.deps.json
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\bin\Debug\net9.0\Facade_Atv_19052025.runtimeconfig.json
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\bin\Debug\net9.0\Facade_Atv_19052025.dll
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\bin\Debug\net9.0\Facade_Atv_19052025.pdb
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.AssemblyInfoInputs.cache
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.AssemblyInfo.cs
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.csproj.CoreCompileInputs.cache
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.sourcelink.json
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.dll
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\refint\Facade_Atv_19052025.dll
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.pdb
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\Facade_Atv_19052025.genruntimeconfig.cache
+C:\Users\0031432412016\desktop\Modelagem_Padroes_Projetos_Atividades\Facade_Atv_19052025\obj\Debug\net9.0\ref\Facade_Atv_19052025.dll
