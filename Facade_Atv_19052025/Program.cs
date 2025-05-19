@@ -8,7 +8,7 @@ class Program
     {
         FachadaBanco fachada = new FachadaBanco();
 
-        Usuario usuario1 = new Usuario("João Silva", 123456, 1000.00);
+        Usuario usuario1 = new Usuario("João", 123456, 1000.00);
 
         fachada.addUsuario(usuario1);
 
@@ -17,7 +17,7 @@ class Program
 
         fachada.saque(999999, 100.00);
 
-        Usuario usuario2 = new Usuario("Maria Souza", 789012, 1500.00);
+        Usuario usuario2 = new Usuario("Maria", 789012, 1500.00);
         fachada.addUsuario(usuario2);
         fachada.deposito(789012, 300.00);
         Console.WriteLine("Valor inválido para saque.");
