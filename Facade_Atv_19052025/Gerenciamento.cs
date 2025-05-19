@@ -5,7 +5,7 @@ public class Gerenciamento
         if (valor > 0)
         {
             usuario.Saldo += valor;
-            Console.WriteLine($"Depósito de R$ {valor:F2} realizado. Novo saldo: R$ {usuario.Saldo:F2}");
+            Console.WriteLine($"\nDepósito de R$ {valor:F2} realizado. Novo saldo: R$ {usuario.Saldo:F2}");
         }
         else
         {
@@ -17,7 +17,7 @@ public class Gerenciamento
         if (valor > 0 && usuario.Saldo >= valor)
         {
             usuario.Saldo -= valor;
-            Console.WriteLine($"Saque de R$ {valor:F2} realizado. Novo saldo: R$ {usuario.Saldo:F2}");
+            Console.WriteLine($"\nSaque de R$ {valor:F2} realizado. Novo saldo: R$ {usuario.Saldo:F2}");
         }
         else if (valor <= 0)
         {

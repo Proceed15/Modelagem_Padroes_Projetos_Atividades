@@ -32,7 +32,12 @@ public class FachadaBanco
         }
         else
         {
-            Console.WriteLine("Usuário não encontrado.");
+            Console.WriteLine("\nUsuário não encontrado.");
+            Console.WriteLine("Conta não encontrada para realizar o saque.");
+            Console.WriteLine("Valor inválido para saque.");
+            Console.WriteLine("Conta não encontrada para realizar o depósito.");
+            Console.WriteLine("Valor inválido para depósito.");
+            Console.WriteLine("Operação Concluída para Tal Usuário com Sucesso");
         }
     }
 }

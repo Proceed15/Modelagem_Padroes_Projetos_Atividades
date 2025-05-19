@@ -15,12 +15,10 @@ class Program
         fachada.deposito(123456, 500.00);
         fachada.saque(123456, 200.00);
 
-        fachada.saque(999999, 100.00);
-
         Usuario usuario2 = new Usuario("Maria", 789012, 1500.00);
         fachada.addUsuario(usuario2);
         fachada.deposito(789012, 300.00);
-        Console.WriteLine("Valor inválido para saque.");
-        Console.WriteLine("Saldo insuficiente para realizar o saque.");
+
+        fachada.saque(999999, 100.00);
     }
 }

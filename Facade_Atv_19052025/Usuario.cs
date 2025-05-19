@@ -1,7 +1,7 @@
 public class Usuario
 {
     private string nome;
-    private long matricula;
+    public long matricula;
     private double saldo;
 
     public Usuario()
