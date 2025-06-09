@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaAtv9Respostas", "Prova
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaAtv10Respostas", "ProvaAtv10Respostas\ProvaAtv10Respostas.csproj", "{BE7EAE11-1B48-4056-872A-025E0FA9F58B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Bridge_Example_09062025", "MPP_Bridge_Example_09062025\MPP_Bridge_Example_09062025.csproj", "{9E9C50E2-AFBF-4EAB-B68B-172D6A472AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_ATV_Bridge_09062025", "MPP_ATV_Bridge_09062025\MPP_ATV_Bridge_09062025.csproj", "{64D5544D-1724-468E-9C4D-DDFD4F62BFC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +130,13 @@ Global
 		{BE7EAE11-1B48-4056-872A-025E0FA9F58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE7EAE11-1B48-4056-872A-025E0FA9F58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE7EAE11-1B48-4056-872A-025E0FA9F58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9C50E2-AFBF-4EAB-B68B-172D6A472AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9C50E2-AFBF-4EAB-B68B-172D6A472AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9C50E2-AFBF-4EAB-B68B-172D6A472AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9C50E2-AFBF-4EAB-B68B-172D6A472AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D5544D-1724-468E-9C4D-DDFD4F62BFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D5544D-1724-468E-9C4D-DDFD4F62BFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D5544D-1724-468E-9C4D-DDFD4F62BFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D5544D-1724-468E-9C4D-DDFD4F62BFC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
