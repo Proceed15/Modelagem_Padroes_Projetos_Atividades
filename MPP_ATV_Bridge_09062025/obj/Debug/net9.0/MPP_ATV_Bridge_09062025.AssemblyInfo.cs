@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MPP_ATV_Bridge_09062025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c93ffe356004525cdc507cc8c16f3b098a0b9d7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cdd78bad170eb12cdea12147049b7d2e7727385")]
 [assembly: System.Reflection.AssemblyProductAttribute("MPP_ATV_Bridge_09062025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MPP_ATV_Bridge_09062025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
