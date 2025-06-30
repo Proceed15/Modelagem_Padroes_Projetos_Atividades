@@ -1,0 +1,156 @@
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\Nova pasta\MeuProjeto\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\MeuProjeto\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\MeuProjeto\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\MeuProjeto\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\MeuProjeto\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\MeuProjeto\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\MeuProjeto\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Adapter\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\Adapter\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\Adapter\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\Adapter\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Adapter\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\Adapter\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Facade\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\Facade\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\Facade\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\Facade\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Facade\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\Facade\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Bridge\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\Bridge\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\Bridge\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\Bridge\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Bridge\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\Bridge\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\FlyWeight\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\FlyWeight\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\FlyWeight\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\FlyWeight\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\FlyWeight Desafio\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\FlyWeight Exercício\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Template Method Desafio\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412001\Downloads\Template Method Desafio\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412001\Downloads\Template Method Desafio\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412001\Downloads\Template Method Desafio\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Template Method Desafio\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412001\Downloads\Template Method Desafio\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.sourcelink.json
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\Template_Method\obj\Debug\net9.0\ref\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.sourcelink.json
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\0031432412016\Desktop\Modelagem_Padroes_Projetos_Atividades\MPP_Method_Template_30062025\obj\Debug\net9.0\ref\MeuProjeto.dll
