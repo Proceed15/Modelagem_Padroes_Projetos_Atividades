@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MPP_Bridge_Example_09062025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cdd78bad170eb12cdea12147049b7d2e7727385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b35430f11906676a5e329b9b09cafb2f47b2970e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MPP_Bridge_Example_09062025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MPP_Bridge_Example_09062025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

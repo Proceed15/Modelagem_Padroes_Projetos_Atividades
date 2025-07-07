@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MPP_Atv_Composite_16062025")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a57d0ff3f7e652c1b51e080f88e9177bcaba1282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b35430f11906676a5e329b9b09cafb2f47b2970e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MPP_Atv_Composite_16062025")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MPP_Atv_Composite_16062025")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

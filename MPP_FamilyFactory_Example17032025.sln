@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Composite_Challenge_160
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_Atv_Composite_16062025", "MPP_Atv_Composite_16062025\MPP_Atv_Composite_16062025.csproj", "{D2218048-4961-40FF-8FEC-4A69A73258B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPP_FlyWeight_Example_23062025", "MPP_FlyWeight_Example_23062025\MPP_FlyWeight_Example_23062025.csproj", "{B39E3696-4FFF-484D-88A0-7F08D6F84AC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{D2218048-4961-40FF-8FEC-4A69A73258B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2218048-4961-40FF-8FEC-4A69A73258B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2218048-4961-40FF-8FEC-4A69A73258B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B39E3696-4FFF-484D-88A0-7F08D6F84AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39E3696-4FFF-484D-88A0-7F08D6F84AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39E3696-4FFF-484D-88A0-7F08D6F84AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39E3696-4FFF-484D-88A0-7F08D6F84AC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
