@@ -1,4 +1,4 @@
-1) É um design pattern, inserido no catálogo de padrões de criação (creational) do GoF, que tem por objetivo definir uma interface para criar objetos de forma a deixar subclasses decidirem qual classe instanciar. Também conhecido como Construtor Virtual é o:
+Respostas e Soluções: 1) É um design pattern, inserido no catálogo de padrões de criação (creational) do GoF, que tem por objetivo definir uma interface para criar objetos de forma a deixar subclasses decidirem qual classe instanciar. Também conhecido como Construtor Virtual é o:
 
 R: b) Factory Method
 
