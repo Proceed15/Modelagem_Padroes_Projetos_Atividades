@@ -1,10 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Arquivo Utilizado para Anotações e Testes de Código!");
 //Ativida já realizada, disponível na pasta SOLID_MPP_ATVS
 //Atividade na Pasta SOLID ATV, Concluída, Verificar Informações Importantes Registradas nos Arquivos
 
 //Refatorar os programas abaixo, seguindo os princípios SOLID: \/
-
+/*
 //Atv1 1) Single Responsability Principle
 class program
 { 
@@ -23,7 +24,7 @@ static void NotifyClient() {
 // Envia e-mail / SMS 
 } 
 }
-
+*/
 //Atv2 2) Aplicar Open Closed Principle
 /*
 public class Veiculo 
