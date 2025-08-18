@@ -21,7 +21,7 @@ public class Program
         Console.Write("Digite o segundo número: ");
         int b = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("Escolha a operação (+, -, *): ");
+        Console.Write("Escolha a operação (+, -, *, %): ");
         string action = Console.ReadLine();
 
         // O cliente decide qual estratégia usar com base na entrada do usuário.
@@ -36,6 +36,9 @@ public class Program
             case "*":
                 context.SetStrategy(new ConcreteStrategyMultiply());
                 break;
+            case "%":
+                context.SetStrategy(new ConcretestrategyDivision());
+                break;    
             default:
                 Console.WriteLine("Operação inválida.");
                 return;

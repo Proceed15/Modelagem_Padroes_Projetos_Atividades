@@ -6,7 +6,7 @@ public class ConcreteStrategyAdd : IStrategy
 {
     public int Execute(int a, int b)
     {
-        Console.WriteLine("Executando a estratégia de SOMA.");
+        Console.WriteLine("Executando a Estratégia de Soma: ");
         return a + b;
     }
 }
