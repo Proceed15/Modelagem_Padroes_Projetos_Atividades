@@ -5,3 +5,4 @@ public class AdjustTemperatureCommand : ICommand
     public AdjustTemperatureCommand(Termostate t, double temp) { Termostate = t; this.temp = temp; }
     public bool Run() { Termostate.AdjustTemperature(temp); return true; }
 }
+
