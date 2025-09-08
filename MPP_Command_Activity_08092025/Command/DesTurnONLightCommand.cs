@@ -7,4 +7,9 @@ public class DesTurnONLightCommand : ICommand
         Light.DesTurnON();
         return true;
     }
+    public bool Desfazer()
+    {
+        Light.TurnON();
+        return true;
+    }
 }
