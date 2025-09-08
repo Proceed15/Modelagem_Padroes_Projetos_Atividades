@@ -41,10 +41,10 @@ class Program
         Termostate.Status();
         Door.Status();
    
-        Console.WriteLine("\n▶️ Executando Desfazer...");
+        Console.WriteLine("\nExecutando Desfazer...");
         central.DesfazerUltimo();
         
-        Console.WriteLine("\n📌 Status Depois do Desfazer:");
+        Console.WriteLine("\ntatus Depois do Desfazer:");
         Light.Status();
         Termostate.Status();
         Door.Status();
