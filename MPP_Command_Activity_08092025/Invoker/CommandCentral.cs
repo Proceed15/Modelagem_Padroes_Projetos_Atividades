@@ -1,15 +1,18 @@
 // ----------------- INVOKER -----------------
 public class CommandCentral
 {
-    private Queue<ICommand> history = new Queue<ICommand>();
+    private Stack<ICommand> history = new Queue<ICommand>();
 
     public void PressingButton(ICommand command)
     {
-        bool success = command.Run();
-        if (success)
+        if (command.Run())
         {
-            if (history.Count >= 5) history.Dequeue();
-            history.Enqueue(command);
+            if (history.Count >= 5)
+            {
+                var temp = history.Reverse().Take(4).Reverse().ToList();
+                history = new Stack<ICommand>(temp);
+            }
+            history.Push(command);
         }
     }
 
@@ -21,8 +24,11 @@ public class CommandCentral
             Console.WriteLine($" - {cmd.GetType().Name}");
         }
     }
-    class UndoLast()
+    public void DesfazerUltimo()
     {
-        
+        var ultimo = history.Pop();
+        ultimo.Desfazer();
+        Console.WriteLine($"Desfez: {ultimo.GetType().Name}");
+        ShowHistory();
     }
 }
