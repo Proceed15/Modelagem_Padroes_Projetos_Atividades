@@ -5,3 +5,4 @@ public class OpenDoorCommand : ICommand
     public bool Run() => Door.open();
     public bool Desfazer() => Door.CloseDoor();
 }
+
