@@ -5,3 +5,4 @@ public class AdjustIntensityLightCommand : ICommand
     public AdjustIntensityLightCommand(Light l, int v) { Light = l; valor = v; }
     public bool Run() { Light.AdjustIntensity(valor); return true; }
 }
+
