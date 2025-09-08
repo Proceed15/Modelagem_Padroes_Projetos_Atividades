@@ -1,6 +1,6 @@
 public class Door
 {
-    private bool Open = false;
+    public bool Open = false;
     private static Random rnd = new Random();
 
     public bool open()
@@ -29,6 +29,6 @@ public class Door
 
     public void Status()
     {
-        Console.WriteLine($"🚪 Porta está {(Open ? "Open" : "fechada")}.");
+        Console.WriteLine($"🚪 Porta está {(Open ? "Aberta" : "Fechada")}.");
     }
 }

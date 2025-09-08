@@ -2,7 +2,7 @@
 //Light
 public class Light
 {
-    private bool TurnedON = false;
+    public bool TurnedON = false;
     private int Intensity = 100;
 
     public void TurnON()
