@@ -44,7 +44,7 @@ class Program
         Console.WriteLine("\nExecutando Desfazer...");
         central.DesfazerUltimo();
         
-        Console.WriteLine("\ntatus Depois do Desfazer:");
+        Console.WriteLine("\nStatus Depois do Desfazer:");
         Light.Status();
         Termostate.Status();
         Door.Status();

@@ -1,7 +1,7 @@
 // ----------------- INVOKER -----------------
 public class CommandCentral
 {
-    private Stack<ICommand> history = new Queue<ICommand>();
+    private Stack<ICommand> history = new Stack<ICommand>();
 
     public void PressingButton(ICommand command)
     {

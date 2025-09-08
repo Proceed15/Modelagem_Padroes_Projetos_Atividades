@@ -1,7 +1,8 @@
-public class CloseDoorCommand : ICommand
+public class OpenDoorCommand : ICommand
 {
     private Door Door;
-    public CloseDoorCommand(Door p) => Door = p;
-    public bool Run() => Door.CloseDoor();
-    public bool Desfazer() => Door.open();
+    public OpenDoorCommand(Door p) => Door = p;
+    public bool Run() => Door.open();
+    public bool Desfazer() => Door.CloseDoor();
 }
+
