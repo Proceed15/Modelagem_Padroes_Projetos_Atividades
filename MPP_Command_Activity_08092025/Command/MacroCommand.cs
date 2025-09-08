@@ -13,4 +13,12 @@ public class MacroCommand : ICommand
         }
         return success;
     }
+    public bool Desfazer()
+    {
+        bool success = true;
+        for (int i = commands.Count - 1; i >= 0; i--)
+            success &= commands[i].Desfazer();
+        return success;
+    }
+    
 }
