@@ -14,3 +14,4 @@ public class Termostate
         Console.WriteLine($"🌡️ Temperatura atual: {Temperature}°C.");
     }
 }
+
