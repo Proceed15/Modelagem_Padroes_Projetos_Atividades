@@ -21,4 +21,8 @@ public class CommandCentral
             Console.WriteLine($" - {cmd.GetType().Name}");
         }
     }
+    class UndoLast()
+    {
+        
+    }
 }
