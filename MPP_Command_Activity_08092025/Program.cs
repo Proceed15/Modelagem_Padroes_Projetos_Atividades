@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 using System;
 using System.Collections.Generic;
@@ -37,6 +37,14 @@ class Program
 
         // Status final dos dispositivos
         Console.WriteLine("\n📌 Status Final:");
+        Light.Status();
+        Termostate.Status();
+        Door.Status();
+   
+        Console.WriteLine("\n▶️ Executando Desfazer...");
+        central.DesfazerUltimo();
+        
+        Console.WriteLine("\n📌 Status Depois do Desfazer:");
         Light.Status();
         Termostate.Status();
         Door.Status();
