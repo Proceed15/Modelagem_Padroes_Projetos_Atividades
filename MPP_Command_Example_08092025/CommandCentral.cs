@@ -1,27 +1,21 @@
 // ----------------- INVOKER -----------------
-using System.Reflection.Metadata.Ecma335;
-using System.Security.Cryptography.X509Certificates;
-
 public class CommandCentral
 {
-    private Queue<ICommand> history = new Queue<ICommand>();
-    public bool Revert;
+    private Stack<ICommand> history = new Queue<ICommand>();
+
     public void PressingButton(ICommand command)
     {
-        bool success = command.Run();
-
-        if (success)
+        if (command.Run())
         {
-            if (history.Count >= 5) history.Dequeue();
-            history.Enqueue(command);          
+            if (history.Count >= 5)
+            {
+                var temp = history.Reverse().Take(4).Reverse().ToList();
+                history = new Stack<ICommand>(temp);
+            }
+            history.Push(command);
         }
-        var recentCommand = command;
-        if (history.Count == 5)
-        {
-            recentCommand = command;
-        }
-        Revert = recentCommand.Desfazer();
     }
+
     public void ShowHistory()
     {
         Console.WriteLine("\n📜 Histórico dos últimos commands:");
@@ -30,9 +24,15 @@ public class CommandCentral
             Console.WriteLine($" - {cmd.GetType().Name}");
         }
     }
-    
     public void DesfazerUltimo()
     {
-        Console.WriteLine($"Luz e Porta: " + Revert + "Porta: " + Revert);
+        var ultimo = history.Pop();
+        ultimo.Desfazer();
+        Console.WriteLine($"Desfez: {ultimo.GetType().Name}");
+        ShowHistory();
     }
 }
+
+
+
+
