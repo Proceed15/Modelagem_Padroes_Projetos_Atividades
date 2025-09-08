@@ -6,3 +6,4 @@ public class TurnONLightCommand : ICommand
     public TurnONLightCommand(Light l) => Light = l;
     public bool Run() { Light.TurnON(); return true; }
 }
+
