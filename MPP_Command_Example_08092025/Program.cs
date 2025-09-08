@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 using System;
 using System.Collections.Generic;
@@ -20,7 +20,6 @@ class Program
         central.PressingButton(new AdjustTemperatureCommand(Termostate, 19.5));
         central.PressingButton(new OpenDoorCommand(Door));
         central.PressingButton(new CloseDoorCommand(Door));
-        
 
         // MacroCommand
         var macro = new MacroCommand(new List<ICommand>
@@ -41,10 +40,22 @@ class Program
         Light.Status();
         Termostate.Status();
         Door.Status();
-        //Executando Um Desfazer
-        Console.WriteLine("\n▶️ Executando Desfazer...");
+   
+        Console.WriteLine("\nExecutando Desfazer...");
         central.DesfazerUltimo();
+        
+        Console.WriteLine("\nStatus Depois do Desfazer:");
+        Light.Status();
+        Termostate.Status();
+        Door.Status();
     }
 }
+
+
+
+
+
+
+
 
 
