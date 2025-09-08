@@ -32,3 +32,8 @@ public class Door
         Console.WriteLine($"🚪 Porta está {(Open ? "Open" : "fechada")}.");
     }
 }
+
+
+
+
+
