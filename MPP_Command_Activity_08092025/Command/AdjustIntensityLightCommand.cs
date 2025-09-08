@@ -8,4 +8,9 @@ public class AdjustIntensityLightCommand : ICommand
         Light.AdjustIntensity(valor);
         return true;
     }
+    public bool Desfazer()
+    {
+        Light.AdjustIntensity(12);
+        return true;
+    }
 }
