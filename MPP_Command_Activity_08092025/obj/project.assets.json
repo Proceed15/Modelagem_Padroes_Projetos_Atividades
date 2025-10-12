@@ -8,31 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\0031432412016\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\JRLSF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0031432412016\\desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Command_Activity_08092025\\MPP_Command_Activity_08092025.csproj",
+      "projectUniqueName": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Command_Activity_08092025\\MPP_Command_Activity_08092025.csproj",
       "projectName": "MPP_Command_Activity_08092025",
-      "projectPath": "C:\\Users\\0031432412016\\desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Command_Activity_08092025\\MPP_Command_Activity_08092025.csproj",
-      "packagesPath": "C:\\Users\\0031432412016\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0031432412016\\desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Command_Activity_08092025\\obj\\",
+      "projectPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Command_Activity_08092025\\MPP_Command_Activity_08092025.csproj",
+      "packagesPath": "C:\\Users\\JRLSF\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JRLSF\\Desktop\\Modelagem_Padroes_Projetos_Atividades\\MPP_Command_Activity_08092025\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\0031432412016\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\JRLSF\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -72,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
