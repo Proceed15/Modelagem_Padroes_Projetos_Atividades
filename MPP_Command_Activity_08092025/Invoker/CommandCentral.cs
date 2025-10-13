@@ -1,4 +1,4 @@
-// ----------------- INVOKER -----------------
+//----------------- INVOKER -----------------
 public class CommandCentral
 {
     private Stack<ICommand> history = new Stack<ICommand>();
