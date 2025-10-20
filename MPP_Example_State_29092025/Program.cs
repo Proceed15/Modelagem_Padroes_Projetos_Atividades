@@ -50,13 +50,13 @@ namespace PadraoState
             Pedido pedido8 = new Pedido();
             pedido8.ProcessarPagamento();
             pedido8.DespacharPedido();
-            pedido8.EntregarPedido();     
+            pedido8.EntregarPedido();
 
             Console.WriteLine("--- SIMULAÇÃO DE UM PEDIDO BEM-SUCEDIDO ---");
             Pedido pedido9 = new Pedido();
             pedido9.ProcessarPagamento();
             pedido9.DespacharPedido();
-            pedido9.EntregarPedido();       
+            pedido9.EntregarPedido();
         }
     }
 }
